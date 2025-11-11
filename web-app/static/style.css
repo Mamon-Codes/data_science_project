@@ -1,0 +1,152 @@
+/* style.css */
+
+/* Global Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f7f6; /* Light, clean background */
+    color: #333; /* Dark gray text for readability */
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Align content to the top */
+    min-height: 100vh;
+}
+
+/* Container for the form/result page */
+.container {
+    background-color: #fff;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    max-width: 500px;
+    width: 100%;
+}
+
+/* Headings */
+h2 {
+    color: #1a73e8; /* A professional blue color */
+    border-bottom: 3px solid #e0e0e0;
+    padding-bottom: 10px;
+    margin-top: 0;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+h3 {
+    color: #444;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Form Styling */
+form label {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: 500;
+    color: #555;
+}
+
+/* Input and Select Fields */
+input[type="number"],
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box; /* Include padding/border in the element's total width/height */
+    transition: border-color 0.3s;
+    -webkit-appearance: none; /* Removes default styling for better consistency */
+    -moz-appearance: none;
+    appearance: none;
+}
+
+input[type="number"]:focus,
+select:focus {
+    border-color: #1a73e8;
+    outline: none; /* Remove default focus outline */
+    box-shadow: 0 0 0 2px rgba(26, 115, 232, 0.2);
+}
+
+/* Submit Button */
+button[type="submit"] {
+    background-color: #1a73e8;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 25px;
+    transition: background-color 0.3s, transform 0.1s;
+    width: 100%; /* Full width button */
+}
+
+button[type="submit"]:hover {
+    background-color: #0c60d3;
+}
+
+button[type="submit"]:active {
+    transform: scale(0.99);
+}
+
+/* Separator and API info */
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #e0e0e0;
+    margin: 30px 0;
+}
+
+code {
+    background-color: #f0f0f0;
+    padding: 2px 5px;
+    border-radius: 4px;
+    font-family: 'Consolas', 'Courier New', monospace;
+    color: #c7254e;
+}
+
+p {
+    line-height: 1.6;
+}
+
+/* Result Page Specific Styles */
+.result-box strong {
+    font-size: 1.2em;
+    color: #1a73e8;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.result-box ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.result-box li {
+    background-color: #f7f9fc;
+    border-left: 5px solid #1a73e8;
+    padding: 10px;
+    margin-bottom: 8px;
+    border-radius: 4px;
+    font-family: 'Courier New', monospace; /* For a technical feel */
+}
+
+/* Link Styling */
+a {
+    color: #1a73e8;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 15px;
+    border: 1px solid #1a73e8;
+    border-radius: 6px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+a:hover {
+    background-color: #1a73e8;
+    color: white;
+}

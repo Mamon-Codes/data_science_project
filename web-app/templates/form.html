@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Academic Stress Predictor</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h2>Academic Stress Predictor</h2>
+    <form action="/predict" method="post">
+      <label>Academic Stage:</label>
+      <select name="acadmic_stage">
+        <option value="post-graduate">Post-Graduate</option>
+        <option value="high school">High School</option>
+        <option value="undergraduate">Undergraduate</option>
+      </select>
+
+      <label>Peer Pressure (1-5):</label>
+      <input name="Peer pressure" type="number" min="1" max="5" value="3">
+
+      <label>Academic pressure from your home (1-5):</label>
+      <input name="Academic pressure from your home" type="number" min="1" max="5" value="3">
+
+      <label>Study Environment:</label>
+      <select name="Study Environment">
+        <option>Peaceful</option>
+        <option>Noisy</option>
+        <option>Disrupted</option>
+      </select>
+
+      <label>What coping strategy you use as a student?</label>
+      <select name="strategy_used">
+        <option>Analyze the situation and handle it with intellect</option>
+        <option>Social support (friends, family)</option>
+        <option>Emotional breakdown (crying a lot)</option>
+      </select>
+
+      <label>Do you have any bad habits?</label>
+      <select name="bad_habbits">
+        <option>No</option>
+        <option>Yes</option>
+        <option>Prefer not to say</option>
+      </select>
+
+      <label>Academic Competition (1-5):</label>
+      <input name="academic_competation" type="number" min="1" max="5" value="3">
+
+      <button type="submit">Predict</button>
+    </form>
+    <hr/>
+    <p>Or use the API endpoint <code>/api/predict</code> (POST JSON)</p>
+  </div>
+</body>
+</html>

@@ -1,0 +1,952 @@
+acadmic_stage,Peer pressure,Academic pressure from your home,Study Environment,strategy_used,bad_habbits,academic_competation,stress_level
+undergraduate,1.0,3,Peaceful,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+high school,4.0,4,Noisy,Emotional breakdown (crying a lot),prefer not to say,5.0,5.0
+high school,5.0,5,Peaceful,"Social support (friends, family)",No,3.0,3.0
+high school,1.0,1,Noisy,Emotional breakdown (crying a lot),prefer not to say,4.0,3.0
+post-graduate,3.0,1,Noisy,Analyze the situation and handle it with intellect,prefer not to say,1.0,2.0
+undergraduate,2.0,2,disrupted,"Social support (friends, family)",prefer not to say,3.0,2.0
+post-graduate,1.0,5,Peaceful,"Social support (friends, family)",prefer not to say,3.0,2.0
+undergraduate,4.0,1,Peaceful,Emotional breakdown (crying a lot),Yes,2.0,3.0
+high school,3.0,3,Peaceful,Emotional breakdown (crying a lot),Yes,3.0,4.0
+undergraduate,1.0,4,Noisy,Emotional breakdown (crying a lot),Yes,5.0,5.0
+undergraduate,3.0,1,disrupted,Emotional breakdown (crying a lot),No,4.0,4.0
+post-graduate,4.0,2,disrupted,Analyze the situation and handle it with intellect,prefer not to say,3.0,4.0
+post-graduate,1.0,5,disrupted,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+undergraduate,1.0,5,Peaceful,Analyze the situation and handle it with intellect,No,3.0,2.0
+post-graduate,2.0,2,Noisy,Emotional breakdown (crying a lot),Yes,1.0,3.0
+post-graduate,5.0,2,Noisy,Analyze the situation and handle it with intellect,prefer not to say,4.0,4.0
+high school,5.0,5,Noisy,Analyze the situation and handle it with intellect,No,1.0,4.0
+undergraduate,4.0,3,Noisy,Emotional breakdown (crying a lot),Yes,5.0,5.0
+high school,3.0,2,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,4.0,2.0
+high school,3.0,3,disrupted,Analyze the situation and handle it with intellect,No,3.0,4.0
+post-graduate,2.0,3,Peaceful,Analyze the situation and handle it with intellect,No,3.0,2.0
+undergraduate,5.0,5,Noisy,Emotional breakdown (crying a lot),No,1.0,5.0
+post-graduate,4.0,5,Noisy,Emotional breakdown (crying a lot),No,2.0,5.0
+undergraduate,3.0,2,disrupted,Analyze the situation and handle it with intellect,prefer not to say,3.0,3.0
+undergraduate,3.0,4,Noisy,Analyze the situation and handle it with intellect,prefer not to say,1.0,3.0
+post-graduate,2.0,1,disrupted,Analyze the situation and handle it with intellect,prefer not to say,1.0,2.0
+undergraduate,1.0,5,disrupted,"Social support (friends, family)",Yes,1.0,3.0
+post-graduate,3.0,1,disrupted,Analyze the situation and handle it with intellect,Yes,3.0,3.0
+post-graduate,5.0,1,disrupted,Emotional breakdown (crying a lot),No,4.0,5.0
+undergraduate,2.0,4,Peaceful,Emotional breakdown (crying a lot),No,4.0,4.0
+post-graduate,4.0,3,Peaceful,Analyze the situation and handle it with intellect,No,5.0,4.0
+post-graduate,2.0,2,disrupted,"Social support (friends, family)",No,5.0,3.0
+post-graduate,1.0,3,disrupted,Analyze the situation and handle it with intellect,Yes,4.0,4.0
+high school,4.0,1,Noisy,Analyze the situation and handle it with intellect,No,4.0,3.0
+post-graduate,2.0,4,disrupted,"Social support (friends, family)",Yes,3.0,4.0
+undergraduate,4.0,4,Noisy,Analyze the situation and handle it with intellect,Yes,4.0,4.0
+post-graduate,2.0,1,Peaceful,Emotional breakdown (crying a lot),prefer not to say,5.0,3.0
+post-graduate,1.0,1,Peaceful,"Social support (friends, family)",Yes,2.0,1.0
+undergraduate,3.0,4,Noisy,Emotional breakdown (crying a lot),prefer not to say,5.0,5.0
+post-graduate,4.0,3,disrupted,"Social support (friends, family)",prefer not to say,4.0,4.0
+undergraduate,2.0,1,Noisy,Emotional breakdown (crying a lot),prefer not to say,1.0,2.0
+post-graduate,1.0,1,disrupted,"Social support (friends, family)",prefer not to say,5.0,2.0
+post-graduate,1.0,1,Peaceful,"Social support (friends, family)",No,1.0,1.0
+undergraduate,3.0,4,disrupted,Analyze the situation and handle it with intellect,prefer not to say,4.0,4.0
+high school,4.0,3,Noisy,Analyze the situation and handle it with intellect,prefer not to say,2.0,3.0
+high school,3.0,2,Peaceful,"Social support (friends, family)",Yes,5.0,3.0
+undergraduate,2.0,3,Peaceful,Emotional breakdown (crying a lot),Yes,5.0,4.0
+post-graduate,3.0,4,Peaceful,"Social support (friends, family)",prefer not to say,3.0,2.0
+post-graduate,1.0,2,Peaceful,Analyze the situation and handle it with intellect,No,4.0,2.0
+undergraduate,3.0,5,Noisy,Analyze the situation and handle it with intellect,Yes,4.0,4.0
+post-graduate,2.0,2,disrupted,Emotional breakdown (crying a lot),Yes,3.0,4.0
+high school,3.0,5,disrupted,"Social support (friends, family)",No,2.0,3.0
+high school,1.0,5,Noisy,Emotional breakdown (crying a lot),prefer not to say,5.0,5.0
+undergraduate,2.0,3,disrupted,"Social support (friends, family)",prefer not to say,2.0,2.0
+high school,5.0,2,Peaceful,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+undergraduate,1.0,5,disrupted,Emotional breakdown (crying a lot),prefer not to say,4.0,5.0
+post-graduate,5.0,1,Peaceful,Analyze the situation and handle it with intellect,No,4.0,3.0
+undergraduate,5.0,3,Noisy,Analyze the situation and handle it with intellect,No,2.0,3.0
+high school,4.0,5,Noisy,"Social support (friends, family)",No,5.0,4.0
+high school,5.0,2,disrupted,"Social support (friends, family)",Yes,3.0,4.0
+post-graduate,3.0,4,disrupted,"Social support (friends, family)",prefer not to say,3.0,3.0
+undergraduate,1.0,1,Peaceful,"Social support (friends, family)",No,3.0,1.0
+undergraduate,5.0,1,disrupted,Analyze the situation and handle it with intellect,Yes,2.0,4.0
+undergraduate,2.0,1,disrupted,Emotional breakdown (crying a lot),Yes,3.0,4.0
+undergraduate,5.0,3,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,5.0,4.0
+post-graduate,2.0,5,disrupted,"Social support (friends, family)",prefer not to say,4.0,4.0
+undergraduate,4.0,5,disrupted,"Social support (friends, family)",prefer not to say,5.0,5.0
+undergraduate,3.0,3,Noisy,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+high school,1.0,1,disrupted,"Social support (friends, family)",Yes,4.0,3.0
+high school,3.0,3,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,1.0,2.0
+undergraduate,1.0,2,disrupted,Analyze the situation and handle it with intellect,Yes,4.0,3.0
+post-graduate,1.0,2,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,3.0,2.0
+undergraduate,1.0,5,Noisy,Emotional breakdown (crying a lot),No,3.0,4.0
+high school,4.0,2,disrupted,"Social support (friends, family)",Yes,2.0,3.0
+post-graduate,1.0,2,Peaceful,Analyze the situation and handle it with intellect,No,2.0,1.0
+post-graduate,4.0,1,disrupted,Analyze the situation and handle it with intellect,Yes,1.0,3.0
+post-graduate,5.0,2,Peaceful,"Social support (friends, family)",prefer not to say,1.0,2.0
+post-graduate,2.0,2,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,3.0,2.0
+undergraduate,2.0,4,disrupted,Analyze the situation and handle it with intellect,No,2.0,3.0
+high school,2.0,4,disrupted,Analyze the situation and handle it with intellect,Yes,2.0,4.0
+undergraduate,4.0,5,Noisy,Analyze the situation and handle it with intellect,prefer not to say,4.0,4.0
+high school,3.0,1,disrupted,Emotional breakdown (crying a lot),Yes,4.0,5.0
+post-graduate,1.0,1,disrupted,Emotional breakdown (crying a lot),No,2.0,3.0
+undergraduate,2.0,5,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,3.0
+high school,5.0,5,Peaceful,Emotional breakdown (crying a lot),Yes,2.0,5.0
+undergraduate,3.0,4,Noisy,"Social support (friends, family)",Yes,3.0,3.0
+post-graduate,2.0,2,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,1.0,1.0
+post-graduate,5.0,2,disrupted,Emotional breakdown (crying a lot),Yes,5.0,5.0
+undergraduate,3.0,4,Peaceful,"Social support (friends, family)",No,2.0,2.0
+undergraduate,1.0,2,Peaceful,Emotional breakdown (crying a lot),prefer not to say,4.0,3.0
+post-graduate,4.0,5,Noisy,Analyze the situation and handle it with intellect,Yes,1.0,4.0
+high school,1.0,2,disrupted,Analyze the situation and handle it with intellect,Yes,3.0,3.0
+high school,3.0,5,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,4.0,4.0
+undergraduate,5.0,3,Peaceful,"Social support (friends, family)",prefer not to say,1.0,2.0
+high school,3.0,3,Peaceful,Emotional breakdown (crying a lot),Yes,1.0,3.0
+undergraduate,5.0,5,Peaceful,"Social support (friends, family)",No,2.0,3.0
+undergraduate,4.0,4,disrupted,"Social support (friends, family)",prefer not to say,2.0,3.0
+undergraduate,1.0,2,Noisy,Emotional breakdown (crying a lot),Yes,4.0,4.0
+post-graduate,5.0,2,Noisy,"Social support (friends, family)",No,5.0,4.0
+post-graduate,2.0,4,Noisy,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+post-graduate,3.0,3,Peaceful,Emotional breakdown (crying a lot),No,2.0,3.0
+high school,5.0,4,Noisy,Analyze the situation and handle it with intellect,No,1.0,3.0
+high school,5.0,5,disrupted,Analyze the situation and handle it with intellect,prefer not to say,5.0,5.0
+post-graduate,3.0,3,Peaceful,Emotional breakdown (crying a lot),No,1.0,3.0
+undergraduate,1.0,4,Noisy,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+high school,3.0,1,Peaceful,"Social support (friends, family)",Yes,2.0,2.0
+high school,4.0,3,disrupted,"Social support (friends, family)",No,4.0,4.0
+undergraduate,1.0,4,disrupted,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+high school,5.0,1,Peaceful,"Social support (friends, family)",prefer not to say,2.0,2.0
+post-graduate,2.0,1,Noisy,Analyze the situation and handle it with intellect,prefer not to say,3.0,2.0
+post-graduate,2.0,2,disrupted,"Social support (friends, family)",Yes,2.0,2.0
+post-graduate,5.0,4,disrupted,Emotional breakdown (crying a lot),prefer not to say,2.0,5.0
+post-graduate,2.0,1,Peaceful,"Social support (friends, family)",Yes,5.0,2.0
+post-graduate,5.0,4,Noisy,Emotional breakdown (crying a lot),prefer not to say,4.0,5.0
+high school,2.0,1,disrupted,"Social support (friends, family)",Yes,2.0,2.0
+high school,3.0,3,disrupted,Emotional breakdown (crying a lot),No,3.0,4.0
+undergraduate,3.0,5,Peaceful,Emotional breakdown (crying a lot),No,5.0,5.0
+high school,4.0,1,disrupted,Emotional breakdown (crying a lot),No,1.0,4.0
+undergraduate,2.0,3,Noisy,Emotional breakdown (crying a lot),No,5.0,4.0
+post-graduate,4.0,1,Peaceful,"Social support (friends, family)",No,3.0,2.0
+undergraduate,4.0,2,Noisy,Analyze the situation and handle it with intellect,Yes,4.0,4.0
+post-graduate,5.0,2,disrupted,"Social support (friends, family)",prefer not to say,1.0,3.0
+high school,4.0,1,Peaceful,Analyze the situation and handle it with intellect,No,2.0,2.0
+undergraduate,1.0,4,disrupted,Emotional breakdown (crying a lot),No,1.0,4.0
+undergraduate,1.0,5,Noisy,"Social support (friends, family)",prefer not to say,4.0,3.0
+post-graduate,2.0,2,Noisy,Emotional breakdown (crying a lot),No,5.0,4.0
+high school,2.0,1,Peaceful,"Social support (friends, family)",Yes,2.0,1.0
+high school,4.0,4,disrupted,Emotional breakdown (crying a lot),Yes,2.0,5.0
+post-graduate,5.0,5,disrupted,Analyze the situation and handle it with intellect,prefer not to say,5.0,5.0
+undergraduate,2.0,4,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,2.0
+high school,5.0,4,Noisy,Emotional breakdown (crying a lot),Yes,4.0,5.0
+post-graduate,2.0,4,Peaceful,Emotional breakdown (crying a lot),Yes,2.0,4.0
+undergraduate,3.0,4,Noisy,Emotional breakdown (crying a lot),prefer not to say,2.0,4.0
+high school,3.0,1,Peaceful,"Social support (friends, family)",prefer not to say,2.0,1.0
+post-graduate,2.0,1,disrupted,Emotional breakdown (crying a lot),prefer not to say,5.0,4.0
+post-graduate,4.0,4,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,2.0,3.0
+high school,5.0,1,Peaceful,"Social support (friends, family)",No,1.0,1.0
+undergraduate,5.0,5,Peaceful,"Social support (friends, family)",No,3.0,3.0
+undergraduate,3.0,4,disrupted,Analyze the situation and handle it with intellect,Yes,2.0,4.0
+high school,4.0,2,Noisy,"Social support (friends, family)",No,2.0,2.0
+post-graduate,3.0,1,disrupted,Emotional breakdown (crying a lot),No,1.0,3.0
+high school,2.0,1,Noisy,"Social support (friends, family)",prefer not to say,2.0,1.0
+undergraduate,1.0,1,Noisy,Analyze the situation and handle it with intellect,No,1.0,1.0
+post-graduate,5.0,3,Noisy,"Social support (friends, family)",No,4.0,4.0
+undergraduate,2.0,5,Noisy,Analyze the situation and handle it with intellect,prefer not to say,3.0,3.0
+post-graduate,1.0,5,Peaceful,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+post-graduate,4.0,4,Noisy,Analyze the situation and handle it with intellect,prefer not to say,5.0,4.0
+post-graduate,4.0,2,Peaceful,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+undergraduate,2.0,4,Peaceful,Analyze the situation and handle it with intellect,No,5.0,3.0
+high school,5.0,1,Noisy,Analyze the situation and handle it with intellect,No,2.0,3.0
+undergraduate,5.0,1,Noisy,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+undergraduate,1.0,2,Noisy,"Social support (friends, family)",No,5.0,2.0
+undergraduate,1.0,5,disrupted,Analyze the situation and handle it with intellect,No,1.0,3.0
+post-graduate,5.0,5,Peaceful,"Social support (friends, family)",No,4.0,4.0
+post-graduate,3.0,5,Peaceful,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+post-graduate,5.0,5,disrupted,"Social support (friends, family)",prefer not to say,4.0,5.0
+high school,2.0,4,disrupted,Analyze the situation and handle it with intellect,No,2.0,3.0
+post-graduate,1.0,5,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,5.0,3.0
+undergraduate,4.0,1,disrupted,Emotional breakdown (crying a lot),No,4.0,4.0
+high school,1.0,3,Noisy,"Social support (friends, family)",Yes,3.0,2.0
+post-graduate,2.0,5,Noisy,Analyze the situation and handle it with intellect,No,2.0,3.0
+post-graduate,5.0,3,Noisy,Analyze the situation and handle it with intellect,Yes,4.0,4.0
+undergraduate,3.0,3,Peaceful,"Social support (friends, family)",prefer not to say,2.0,2.0
+post-graduate,1.0,2,Peaceful,"Social support (friends, family)",No,4.0,1.0
+undergraduate,5.0,1,Noisy,"Social support (friends, family)",prefer not to say,5.0,3.0
+undergraduate,4.0,4,Peaceful,Analyze the situation and handle it with intellect,Yes,3.0,4.0
+post-graduate,3.0,2,disrupted,Emotional breakdown (crying a lot),Yes,1.0,4.0
+post-graduate,4.0,4,Noisy,Analyze the situation and handle it with intellect,Yes,1.0,4.0
+undergraduate,3.0,2,Noisy,"Social support (friends, family)",No,5.0,3.0
+high school,4.0,4,Noisy,Analyze the situation and handle it with intellect,No,2.0,3.0
+undergraduate,1.0,2,disrupted,Analyze the situation and handle it with intellect,No,4.0,3.0
+high school,3.0,2,disrupted,Analyze the situation and handle it with intellect,Yes,1.0,3.0
+undergraduate,5.0,1,Peaceful,"Social support (friends, family)",No,1.0,1.0
+undergraduate,3.0,5,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,3.0
+high school,4.0,3,disrupted,"Social support (friends, family)",prefer not to say,3.0,3.0
+high school,4.0,1,disrupted,"Social support (friends, family)",No,3.0,3.0
+undergraduate,1.0,3,disrupted,Emotional breakdown (crying a lot),Yes,3.0,4.0
+undergraduate,5.0,3,Noisy,"Social support (friends, family)",No,5.0,4.0
+post-graduate,3.0,4,Peaceful,Analyze the situation and handle it with intellect,No,1.0,2.0
+undergraduate,4.0,2,Noisy,"Social support (friends, family)",prefer not to say,2.0,2.0
+post-graduate,3.0,2,disrupted,Emotional breakdown (crying a lot),No,5.0,5.0
+high school,1.0,1,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,5.0,2.0
+post-graduate,1.0,5,Noisy,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+undergraduate,5.0,5,disrupted,Emotional breakdown (crying a lot),No,1.0,5.0
+high school,3.0,1,disrupted,Emotional breakdown (crying a lot),prefer not to say,1.0,3.0
+post-graduate,4.0,4,Noisy,Emotional breakdown (crying a lot),prefer not to say,3.0,5.0
+undergraduate,3.0,2,Peaceful,Emotional breakdown (crying a lot),Yes,5.0,4.0
+high school,5.0,4,disrupted,Emotional breakdown (crying a lot),Yes,5.0,5.0
+undergraduate,2.0,4,Noisy,Emotional breakdown (crying a lot),No,4.0,4.0
+post-graduate,2.0,4,Noisy,"Social support (friends, family)",Yes,4.0,3.0
+undergraduate,3.0,4,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,3.0,3.0
+high school,4.0,2,Peaceful,Emotional breakdown (crying a lot),No,5.0,4.0
+undergraduate,4.0,2,Noisy,Analyze the situation and handle it with intellect,prefer not to say,2.0,3.0
+high school,4.0,4,Noisy,Emotional breakdown (crying a lot),prefer not to say,2.0,4.0
+high school,4.0,4,Noisy,Analyze the situation and handle it with intellect,Yes,1.0,4.0
+post-graduate,1.0,5,Noisy,Analyze the situation and handle it with intellect,Yes,3.0,4.0
+high school,3.0,1,disrupted,Analyze the situation and handle it with intellect,prefer not to say,1.0,2.0
+post-graduate,3.0,3,disrupted,Analyze the situation and handle it with intellect,prefer not to say,2.0,3.0
+high school,5.0,2,Noisy,Analyze the situation and handle it with intellect,prefer not to say,1.0,3.0
+high school,4.0,4,Noisy,Analyze the situation and handle it with intellect,No,5.0,4.0
+undergraduate,5.0,1,Noisy,Analyze the situation and handle it with intellect,No,5.0,4.0
+post-graduate,4.0,2,disrupted,Emotional breakdown (crying a lot),prefer not to say,2.0,4.0
+post-graduate,5.0,4,disrupted,"Social support (friends, family)",No,5.0,5.0
+post-graduate,5.0,4,Noisy,"Social support (friends, family)",prefer not to say,2.0,3.0
+undergraduate,5.0,3,disrupted,Analyze the situation and handle it with intellect,Yes,1.0,4.0
+undergraduate,3.0,5,disrupted,Emotional breakdown (crying a lot),prefer not to say,4.0,5.0
+undergraduate,5.0,1,disrupted,Emotional breakdown (crying a lot),Yes,1.0,4.0
+post-graduate,2.0,4,Peaceful,"Social support (friends, family)",Yes,4.0,3.0
+high school,1.0,3,Noisy,Analyze the situation and handle it with intellect,prefer not to say,2.0,2.0
+high school,4.0,3,Peaceful,Emotional breakdown (crying a lot),No,1.0,3.0
+post-graduate,3.0,4,disrupted,"Social support (friends, family)",No,5.0,4.0
+high school,3.0,1,Peaceful,"Social support (friends, family)",No,1.0,1.0
+post-graduate,3.0,4,disrupted,Emotional breakdown (crying a lot),No,1.0,4.0
+undergraduate,3.0,2,disrupted,Analyze the situation and handle it with intellect,prefer not to say,3.0,4.0
+high school,5.0,3,Peaceful,Analyze the situation and handle it with intellect,No,5.0,4.0
+undergraduate,4.0,5,Peaceful,"Social support (friends, family)",Yes,1.0,3.0
+high school,2.0,2,disrupted,"Social support (friends, family)",Yes,3.0,3.0
+post-graduate,4.0,4,Peaceful,"Social support (friends, family)",prefer not to say,3.0,3.0
+high school,1.0,3,Noisy,Emotional breakdown (crying a lot),No,4.0,4.0
+post-graduate,5.0,3,disrupted,Analyze the situation and handle it with intellect,prefer not to say,2.0,4.0
+post-graduate,4.0,2,Noisy,Emotional breakdown (crying a lot),No,5.0,5.0
+undergraduate,3.0,2,Noisy,"Social support (friends, family)",prefer not to say,1.0,2.0
+post-graduate,5.0,2,Noisy,Emotional breakdown (crying a lot),Yes,5.0,5.0
+post-graduate,2.0,2,disrupted,Analyze the situation and handle it with intellect,Yes,2.0,3.0
+post-graduate,3.0,1,Peaceful,Emotional breakdown (crying a lot),prefer not to say,4.0,3.0
+post-graduate,4.0,5,disrupted,Analyze the situation and handle it with intellect,Yes,2.0,5.0
+undergraduate,3.0,4,disrupted,Emotional breakdown (crying a lot),No,5.0,5.0
+high school,3.0,2,Noisy,"Social support (friends, family)",No,4.0,2.0
+undergraduate,5.0,5,Noisy,"Social support (friends, family)",No,3.0,4.0
+post-graduate,1.0,3,Noisy,Emotional breakdown (crying a lot),prefer not to say,3.0,3.0
+undergraduate,3.0,1,Peaceful,Emotional breakdown (crying a lot),No,3.0,3.0
+undergraduate,2.0,1,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,1.0,1.0
+post-graduate,5.0,1,Peaceful,Analyze the situation and handle it with intellect,No,3.0,2.0
+post-graduate,2.0,2,Peaceful,Analyze the situation and handle it with intellect,No,3.0,2.0
+post-graduate,4.0,2,disrupted,"Social support (friends, family)",prefer not to say,1.0,2.0
+undergraduate,3.0,3,Peaceful,Emotional breakdown (crying a lot),Yes,1.0,3.0
+post-graduate,1.0,2,Peaceful,"Social support (friends, family)",Yes,2.0,1.0
+undergraduate,5.0,4,Noisy,Emotional breakdown (crying a lot),Yes,3.0,5.0
+undergraduate,4.0,1,disrupted,Emotional breakdown (crying a lot),prefer not to say,1.0,4.0
+post-graduate,2.0,2,disrupted,"Social support (friends, family)",prefer not to say,3.0,2.0
+post-graduate,1.0,4,Noisy,Emotional breakdown (crying a lot),No,2.0,3.0
+undergraduate,2.0,2,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,4.0,2.0
+high school,5.0,2,Peaceful,Emotional breakdown (crying a lot),Yes,1.0,4.0
+high school,1.0,4,disrupted,Emotional breakdown (crying a lot),Yes,5.0,5.0
+undergraduate,5.0,3,disrupted,"Social support (friends, family)",prefer not to say,2.0,3.0
+post-graduate,3.0,4,Noisy,Analyze the situation and handle it with intellect,prefer not to say,1.0,3.0
+post-graduate,4.0,1,Peaceful,Emotional breakdown (crying a lot),prefer not to say,5.0,4.0
+high school,2.0,5,Peaceful,"Social support (friends, family)",No,4.0,3.0
+post-graduate,2.0,1,Noisy,Emotional breakdown (crying a lot),prefer not to say,2.0,3.0
+high school,3.0,4,Noisy,Analyze the situation and handle it with intellect,prefer not to say,4.0,4.0
+undergraduate,5.0,1,Noisy,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+post-graduate,2.0,3,Noisy,Emotional breakdown (crying a lot),Yes,5.0,5.0
+undergraduate,3.0,1,Noisy,"Social support (friends, family)",prefer not to say,3.0,2.0
+undergraduate,5.0,1,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,3.0,2.0
+high school,2.0,1,Noisy,Analyze the situation and handle it with intellect,prefer not to say,4.0,2.0
+undergraduate,1.0,1,Noisy,"Social support (friends, family)",prefer not to say,2.0,1.0
+high school,1.0,5,Noisy,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+high school,1.0,2,Noisy,Analyze the situation and handle it with intellect,No,1.0,1.0
+high school,4.0,5,Peaceful,Emotional breakdown (crying a lot),Yes,5.0,5.0
+post-graduate,4.0,2,disrupted,"Social support (friends, family)",Yes,3.0,4.0
+high school,1.0,2,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,1.0
+high school,1.0,5,Noisy,Emotional breakdown (crying a lot),Yes,2.0,4.0
+post-graduate,1.0,5,Noisy,"Social support (friends, family)",prefer not to say,3.0,2.0
+high school,3.0,4,Noisy,Analyze the situation and handle it with intellect,No,1.0,3.0
+undergraduate,1.0,3,disrupted,Analyze the situation and handle it with intellect,No,2.0,2.0
+post-graduate,3.0,3,Noisy,"Social support (friends, family)",Yes,1.0,2.0
+undergraduate,4.0,4,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,3.0
+high school,1.0,5,Peaceful,Analyze the situation and handle it with intellect,No,4.0,3.0
+undergraduate,4.0,1,disrupted,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+high school,5.0,3,Noisy,Analyze the situation and handle it with intellect,No,3.0,4.0
+post-graduate,3.0,4,Peaceful,"Social support (friends, family)",prefer not to say,5.0,3.0
+post-graduate,4.0,3,Peaceful,Emotional breakdown (crying a lot),No,2.0,4.0
+high school,4.0,4,disrupted,Emotional breakdown (crying a lot),Yes,3.0,5.0
+high school,1.0,4,Noisy,"Social support (friends, family)",No,1.0,2.0
+high school,4.0,1,disrupted,Analyze the situation and handle it with intellect,prefer not to say,3.0,3.0
+high school,2.0,5,Peaceful,"Social support (friends, family)",Yes,3.0,3.0
+undergraduate,3.0,1,Peaceful,Emotional breakdown (crying a lot),prefer not to say,1.0,2.0
+high school,5.0,3,Peaceful,Emotional breakdown (crying a lot),No,5.0,5.0
+undergraduate,2.0,1,Noisy,Analyze the situation and handle it with intellect,Yes,5.0,3.0
+high school,1.0,2,Noisy,Emotional breakdown (crying a lot),Yes,5.0,4.0
+post-graduate,4.0,4,disrupted,"Social support (friends, family)",No,5.0,4.0
+post-graduate,4.0,4,Peaceful,Emotional breakdown (crying a lot),prefer not to say,2.0,4.0
+undergraduate,3.0,5,Noisy,Analyze the situation and handle it with intellect,No,3.0,4.0
+undergraduate,1.0,1,Peaceful,Analyze the situation and handle it with intellect,No,3.0,1.0
+post-graduate,5.0,4,Peaceful,Emotional breakdown (crying a lot),No,4.0,5.0
+post-graduate,4.0,1,Noisy,Emotional breakdown (crying a lot),No,1.0,3.0
+undergraduate,4.0,3,Peaceful,"Social support (friends, family)",Yes,3.0,3.0
+undergraduate,2.0,2,Noisy,Emotional breakdown (crying a lot),Yes,2.0,4.0
+high school,3.0,5,Noisy,Analyze the situation and handle it with intellect,No,5.0,4.0
+post-graduate,4.0,5,Noisy,"Social support (friends, family)",Yes,3.0,4.0
+undergraduate,3.0,1,disrupted,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+undergraduate,4.0,1,Noisy,"Social support (friends, family)",No,5.0,3.0
+high school,1.0,5,disrupted,Analyze the situation and handle it with intellect,No,3.0,4.0
+high school,5.0,3,Noisy,Emotional breakdown (crying a lot),No,3.0,5.0
+post-graduate,3.0,4,disrupted,Analyze the situation and handle it with intellect,prefer not to say,2.0,4.0
+undergraduate,5.0,2,disrupted,Emotional breakdown (crying a lot),No,2.0,4.0
+high school,3.0,2,disrupted,Analyze the situation and handle it with intellect,prefer not to say,4.0,4.0
+post-graduate,2.0,1,Noisy,"Social support (friends, family)",prefer not to say,2.0,1.0
+undergraduate,5.0,1,disrupted,Analyze the situation and handle it with intellect,prefer not to say,2.0,3.0
+undergraduate,5.0,1,Noisy,"Social support (friends, family)",prefer not to say,2.0,2.0
+post-graduate,5.0,3,Noisy,"Social support (friends, family)",prefer not to say,5.0,4.0
+post-graduate,2.0,5,disrupted,Analyze the situation and handle it with intellect,Yes,3.0,4.0
+undergraduate,4.0,1,Noisy,Emotional breakdown (crying a lot),No,1.0,3.0
+post-graduate,3.0,1,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,2.0
+post-graduate,5.0,3,Peaceful,Analyze the situation and handle it with intellect,No,1.0,2.0
+post-graduate,4.0,3,Noisy,Emotional breakdown (crying a lot),No,3.0,4.0
+post-graduate,1.0,4,Noisy,"Social support (friends, family)",prefer not to say,4.0,2.0
+high school,4.0,3,disrupted,"Social support (friends, family)",prefer not to say,4.0,4.0
+undergraduate,2.0,3,disrupted,"Social support (friends, family)",No,3.0,3.0
+post-graduate,2.0,5,Noisy,Analyze the situation and handle it with intellect,Yes,1.0,3.0
+high school,4.0,1,Peaceful,Analyze the situation and handle it with intellect,No,5.0,3.0
+high school,3.0,2,Peaceful,Emotional breakdown (crying a lot),Yes,3.0,4.0
+undergraduate,4.0,4,disrupted,"Social support (friends, family)",prefer not to say,4.0,4.0
+post-graduate,3.0,3,Noisy,"Social support (friends, family)",Yes,2.0,3.0
+post-graduate,2.0,5,Noisy,Emotional breakdown (crying a lot),prefer not to say,4.0,5.0
+high school,2.0,2,disrupted,Emotional breakdown (crying a lot),No,2.0,4.0
+high school,3.0,5,disrupted,Emotional breakdown (crying a lot),Yes,1.0,5.0
+high school,4.0,5,disrupted,Emotional breakdown (crying a lot),No,4.0,5.0
+high school,5.0,5,Peaceful,Emotional breakdown (crying a lot),Yes,1.0,5.0
+undergraduate,4.0,2,disrupted,"Social support (friends, family)",No,3.0,3.0
+high school,1.0,2,disrupted,Analyze the situation and handle it with intellect,No,4.0,3.0
+undergraduate,2.0,3,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,2.0,2.0
+undergraduate,4.0,1,Peaceful,"Social support (friends, family)",prefer not to say,3.0,2.0
+high school,4.0,3,Noisy,"Social support (friends, family)",prefer not to say,4.0,3.0
+high school,1.0,4,Peaceful,Emotional breakdown (crying a lot),Yes,3.0,4.0
+post-graduate,5.0,4,disrupted,Emotional breakdown (crying a lot),Yes,1.0,5.0
+high school,3.0,5,disrupted,"Social support (friends, family)",Yes,4.0,4.0
+post-graduate,5.0,3,Noisy,Analyze the situation and handle it with intellect,prefer not to say,5.0,4.0
+post-graduate,3.0,5,Peaceful,"Social support (friends, family)",No,1.0,2.0
+undergraduate,5.0,1,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,2.0
+undergraduate,5.0,5,Peaceful,Analyze the situation and handle it with intellect,No,4.0,4.0
+post-graduate,2.0,3,disrupted,Analyze the situation and handle it with intellect,prefer not to say,5.0,4.0
+undergraduate,1.0,1,disrupted,"Social support (friends, family)",prefer not to say,5.0,2.0
+post-graduate,4.0,2,Noisy,Emotional breakdown (crying a lot),Yes,1.0,4.0
+undergraduate,4.0,2,Peaceful,Emotional breakdown (crying a lot),No,3.0,4.0
+post-graduate,1.0,5,disrupted,"Social support (friends, family)",No,2.0,3.0
+high school,4.0,3,Noisy,Analyze the situation and handle it with intellect,No,5.0,4.0
+undergraduate,2.0,2,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,2.0
+high school,4.0,1,disrupted,Analyze the situation and handle it with intellect,prefer not to say,4.0,4.0
+undergraduate,1.0,4,Noisy,Analyze the situation and handle it with intellect,Yes,2.0,3.0
+high school,4.0,3,disrupted,Emotional breakdown (crying a lot),No,1.0,4.0
+post-graduate,2.0,1,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,1.0,1.0
+post-graduate,5.0,4,disrupted,"Social support (friends, family)",No,1.0,3.0
+undergraduate,5.0,3,Noisy,Analyze the situation and handle it with intellect,No,1.0,3.0
+high school,3.0,2,disrupted,Analyze the situation and handle it with intellect,Yes,3.0,4.0
+high school,5.0,4,Peaceful,Emotional breakdown (crying a lot),No,1.0,4.0
+undergraduate,5.0,4,disrupted,"Social support (friends, family)",No,2.0,4.0
+post-graduate,5.0,3,disrupted,"Social support (friends, family)",Yes,2.0,4.0
+post-graduate,1.0,3,Peaceful,"Social support (friends, family)",Yes,2.0,2.0
+undergraduate,1.0,5,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,2.0,2.0
+post-graduate,2.0,5,Peaceful,"Social support (friends, family)",Yes,2.0,2.0
+high school,5.0,2,disrupted,Analyze the situation and handle it with intellect,prefer not to say,1.0,3.0
+high school,2.0,1,Peaceful,Analyze the situation and handle it with intellect,Yes,5.0,3.0
+post-graduate,1.0,2,Peaceful,Emotional breakdown (crying a lot),prefer not to say,5.0,3.0
+undergraduate,1.0,4,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,5.0,3.0
+undergraduate,1.0,2,Noisy,Analyze the situation and handle it with intellect,Yes,4.0,3.0
+undergraduate,2.0,4,Noisy,"Social support (friends, family)",No,4.0,3.0
+undergraduate,2.0,5,Noisy,Emotional breakdown (crying a lot),Yes,1.0,4.0
+high school,2.0,4,disrupted,Emotional breakdown (crying a lot),No,2.0,4.0
+post-graduate,5.0,3,disrupted,"Social support (friends, family)",prefer not to say,4.0,4.0
+high school,3.0,5,Peaceful,Emotional breakdown (crying a lot),prefer not to say,5.0,5.0
+post-graduate,1.0,5,disrupted,Analyze the situation and handle it with intellect,No,1.0,3.0
+undergraduate,4.0,3,Peaceful,Analyze the situation and handle it with intellect,Yes,4.0,4.0
+high school,1.0,3,Noisy,Analyze the situation and handle it with intellect,Yes,1.0,2.0
+post-graduate,4.0,3,Noisy,Analyze the situation and handle it with intellect,No,2.0,3.0
+undergraduate,4.0,3,disrupted,Emotional breakdown (crying a lot),No,1.0,4.0
+undergraduate,4.0,2,Peaceful,"Social support (friends, family)",prefer not to say,4.0,3.0
+post-graduate,2.0,2,disrupted,Analyze the situation and handle it with intellect,prefer not to say,4.0,3.0
+post-graduate,4.0,3,Noisy,"Social support (friends, family)",Yes,5.0,4.0
+undergraduate,3.0,2,disrupted,"Social support (friends, family)",prefer not to say,5.0,3.0
+undergraduate,1.0,3,Peaceful,Emotional breakdown (crying a lot),No,1.0,2.0
+post-graduate,5.0,2,Peaceful,"Social support (friends, family)",No,4.0,3.0
+post-graduate,5.0,3,disrupted,Analyze the situation and handle it with intellect,Yes,1.0,4.0
+post-graduate,3.0,3,disrupted,Emotional breakdown (crying a lot),prefer not to say,4.0,5.0
+undergraduate,3.0,4,Peaceful,"Social support (friends, family)",prefer not to say,3.0,2.0
+undergraduate,1.0,1,disrupted,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+high school,3.0,1,Peaceful,Emotional breakdown (crying a lot),prefer not to say,1.0,2.0
+undergraduate,4.0,3,disrupted,"Social support (friends, family)",No,1.0,3.0
+undergraduate,5.0,3,disrupted,"Social support (friends, family)",prefer not to say,3.0,4.0
+post-graduate,4.0,4,disrupted,Analyze the situation and handle it with intellect,prefer not to say,1.0,4.0
+high school,5.0,4,Peaceful,"Social support (friends, family)",No,2.0,3.0
+high school,3.0,4,Peaceful,"Social support (friends, family)",Yes,4.0,3.0
+undergraduate,5.0,5,disrupted,Analyze the situation and handle it with intellect,Yes,2.0,5.0
+undergraduate,5.0,5,Peaceful,Analyze the situation and handle it with intellect,No,2.0,4.0
+undergraduate,5.0,2,Peaceful,Analyze the situation and handle it with intellect,No,2.0,2.0
+high school,1.0,1,disrupted,Analyze the situation and handle it with intellect,No,1.0,2.0
+undergraduate,4.0,1,disrupted,"Social support (friends, family)",No,1.0,2.0
+post-graduate,2.0,4,disrupted,"Social support (friends, family)",Yes,1.0,3.0
+high school,2.0,5,disrupted,"Social support (friends, family)",No,4.0,4.0
+post-graduate,4.0,3,Peaceful,"Social support (friends, family)",prefer not to say,1.0,2.0
+post-graduate,2.0,3,Peaceful,"Social support (friends, family)",prefer not to say,4.0,2.0
+high school,5.0,3,Noisy,"Social support (friends, family)",No,1.0,2.0
+high school,1.0,5,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,2.0
+undergraduate,3.0,1,Noisy,Analyze the situation and handle it with intellect,No,3.0,2.0
+undergraduate,3.0,2,disrupted,"Social support (friends, family)",prefer not to say,1.0,2.0
+high school,4.0,5,Noisy,"Social support (friends, family)",prefer not to say,1.0,3.0
+high school,3.0,3,Peaceful,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+undergraduate,2.0,1,Peaceful,Emotional breakdown (crying a lot),prefer not to say,4.0,3.0
+high school,2.0,4,disrupted,"Social support (friends, family)",prefer not to say,1.0,2.0
+undergraduate,4.0,4,Noisy,Emotional breakdown (crying a lot),prefer not to say,5.0,5.0
+high school,3.0,3,disrupted,"Social support (friends, family)",No,5.0,4.0
+post-graduate,4.0,4,Peaceful,Analyze the situation and handle it with intellect,No,5.0,4.0
+high school,1.0,1,Peaceful,Emotional breakdown (crying a lot),prefer not to say,4.0,2.0
+high school,2.0,5,disrupted,"Social support (friends, family)",Yes,3.0,4.0
+post-graduate,4.0,2,Noisy,Analyze the situation and handle it with intellect,prefer not to say,4.0,3.0
+undergraduate,2.0,4,disrupted,Emotional breakdown (crying a lot),No,4.0,5.0
+high school,4.0,3,Noisy,Analyze the situation and handle it with intellect,prefer not to say,1.0,3.0
+post-graduate,3.0,3,disrupted,Analyze the situation and handle it with intellect,Yes,2.0,4.0
+high school,5.0,2,disrupted,Analyze the situation and handle it with intellect,prefer not to say,3.0,4.0
+post-graduate,5.0,3,disrupted,Analyze the situation and handle it with intellect,No,4.0,4.0
+post-graduate,2.0,1,Noisy,Emotional breakdown (crying a lot),No,2.0,3.0
+undergraduate,2.0,1,disrupted,Analyze the situation and handle it with intellect,prefer not to say,5.0,3.0
+post-graduate,5.0,1,Noisy,Analyze the situation and handle it with intellect,prefer not to say,4.0,3.0
+high school,2.0,1,Noisy,Analyze the situation and handle it with intellect,No,2.0,2.0
+undergraduate,3.0,3,Noisy,Emotional breakdown (crying a lot),prefer not to say,2.0,4.0
+high school,3.0,3,disrupted,"Social support (friends, family)",No,3.0,3.0
+high school,2.0,3,Noisy,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+post-graduate,5.0,2,Peaceful,Analyze the situation and handle it with intellect,No,4.0,3.0
+post-graduate,3.0,2,Noisy,Emotional breakdown (crying a lot),prefer not to say,5.0,4.0
+post-graduate,1.0,4,Noisy,"Social support (friends, family)",prefer not to say,5.0,3.0
+post-graduate,5.0,2,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,5.0,4.0
+undergraduate,2.0,2,disrupted,Analyze the situation and handle it with intellect,No,2.0,2.0
+post-graduate,1.0,2,Peaceful,Analyze the situation and handle it with intellect,No,3.0,2.0
+undergraduate,5.0,4,Noisy,Emotional breakdown (crying a lot),prefer not to say,5.0,5.0
+post-graduate,1.0,5,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,2.0,2.0
+post-graduate,4.0,3,Noisy,Emotional breakdown (crying a lot),prefer not to say,1.0,4.0
+post-graduate,1.0,2,Noisy,Emotional breakdown (crying a lot),No,1.0,2.0
+post-graduate,4.0,2,disrupted,Emotional breakdown (crying a lot),No,3.0,4.0
+post-graduate,5.0,2,Noisy,Analyze the situation and handle it with intellect,Yes,2.0,4.0
+undergraduate,1.0,2,Peaceful,Analyze the situation and handle it with intellect,No,1.0,1.0
+post-graduate,1.0,3,Peaceful,"Social support (friends, family)",prefer not to say,3.0,1.0
+post-graduate,5.0,3,Noisy,Analyze the situation and handle it with intellect,prefer not to say,4.0,4.0
+post-graduate,5.0,1,Peaceful,Analyze the situation and handle it with intellect,No,1.0,2.0
+high school,1.0,3,Peaceful,"Social support (friends, family)",Yes,3.0,2.0
+high school,2.0,1,disrupted,Emotional breakdown (crying a lot),prefer not to say,5.0,4.0
+post-graduate,4.0,5,disrupted,Emotional breakdown (crying a lot),No,4.0,5.0
+post-graduate,3.0,2,Peaceful,Analyze the situation and handle it with intellect,Yes,4.0,3.0
+post-graduate,2.0,1,Peaceful,Emotional breakdown (crying a lot),prefer not to say,2.0,2.0
+high school,4.0,5,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,1.0,3.0
+high school,5.0,3,Peaceful,Emotional breakdown (crying a lot),No,4.0,4.0
+post-graduate,5.0,4,disrupted,Emotional breakdown (crying a lot),Yes,3.0,5.0
+undergraduate,3.0,5,disrupted,Emotional breakdown (crying a lot),prefer not to say,3.0,5.0
+high school,2.0,3,disrupted,"Social support (friends, family)",Yes,2.0,3.0
+undergraduate,5.0,3,Peaceful,Analyze the situation and handle it with intellect,No,5.0,4.0
+high school,4.0,2,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,1.0,2.0
+undergraduate,3.0,1,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,2.0,2.0
+high school,3.0,1,Peaceful,Analyze the situation and handle it with intellect,No,4.0,2.0
+high school,4.0,4,Peaceful,"Social support (friends, family)",prefer not to say,1.0,2.0
+undergraduate,3.0,3,disrupted,"Social support (friends, family)",No,1.0,2.0
+post-graduate,5.0,4,Peaceful,Analyze the situation and handle it with intellect,No,1.0,3.0
+undergraduate,1.0,3,disrupted,Emotional breakdown (crying a lot),No,5.0,4.0
+post-graduate,4.0,1,Noisy,"Social support (friends, family)",prefer not to say,2.0,2.0
+post-graduate,4.0,3,disrupted,Analyze the situation and handle it with intellect,No,3.0,4.0
+high school,1.0,3,disrupted,Analyze the situation and handle it with intellect,Yes,4.0,4.0
+post-graduate,2.0,2,Peaceful,"Social support (friends, family)",Yes,4.0,2.0
+post-graduate,1.0,1,Peaceful,Emotional breakdown (crying a lot),Yes,5.0,3.0
+high school,3.0,5,Noisy,"Social support (friends, family)",No,4.0,4.0
+post-graduate,2.0,1,Noisy,Emotional breakdown (crying a lot),prefer not to say,3.0,3.0
+undergraduate,1.0,4,Noisy,Analyze the situation and handle it with intellect,prefer not to say,5.0,3.0
+post-graduate,4.0,1,disrupted,"Social support (friends, family)",Yes,3.0,3.0
+post-graduate,1.0,5,disrupted,Analyze the situation and handle it with intellect,No,2.0,3.0
+undergraduate,3.0,4,Peaceful,"Social support (friends, family)",prefer not to say,1.0,2.0
+undergraduate,4.0,5,disrupted,Emotional breakdown (crying a lot),prefer not to say,3.0,5.0
+post-graduate,4.0,2,Peaceful,Analyze the situation and handle it with intellect,No,5.0,3.0
+undergraduate,5.0,1,disrupted,"Social support (friends, family)",Yes,5.0,4.0
+undergraduate,1.0,1,disrupted,Analyze the situation and handle it with intellect,Yes,1.0,2.0
+post-graduate,4.0,2,Peaceful,Emotional breakdown (crying a lot),No,4.0,4.0
+high school,2.0,3,Peaceful,Emotional breakdown (crying a lot),Yes,2.0,3.0
+undergraduate,2.0,5,Noisy,Emotional breakdown (crying a lot),prefer not to say,5.0,5.0
+high school,2.0,3,Noisy,Analyze the situation and handle it with intellect,No,2.0,2.0
+high school,4.0,5,disrupted,"Social support (friends, family)",Yes,5.0,5.0
+high school,1.0,4,Peaceful,Emotional breakdown (crying a lot),prefer not to say,3.0,3.0
+high school,4.0,1,disrupted,"Social support (friends, family)",prefer not to say,4.0,3.0
+undergraduate,5.0,2,disrupted,Emotional breakdown (crying a lot),No,5.0,5.0
+high school,3.0,4,Noisy,Emotional breakdown (crying a lot),No,4.0,5.0
+undergraduate,1.0,1,Noisy,Emotional breakdown (crying a lot),prefer not to say,3.0,3.0
+undergraduate,5.0,3,Noisy,Emotional breakdown (crying a lot),No,5.0,5.0
+high school,3.0,3,disrupted,Emotional breakdown (crying a lot),prefer not to say,1.0,4.0
+undergraduate,2.0,3,Noisy,Analyze the situation and handle it with intellect,Yes,2.0,3.0
+high school,4.0,3,disrupted,Analyze the situation and handle it with intellect,prefer not to say,1.0,3.0
+post-graduate,5.0,1,disrupted,Analyze the situation and handle it with intellect,prefer not to say,2.0,3.0
+high school,2.0,3,disrupted,Emotional breakdown (crying a lot),Yes,5.0,5.0
+undergraduate,1.0,3,Peaceful,Analyze the situation and handle it with intellect,Yes,4.0,3.0
+post-graduate,3.0,1,disrupted,"Social support (friends, family)",No,3.0,2.0
+high school,3.0,3,Peaceful,Emotional breakdown (crying a lot),No,3.0,4.0
+undergraduate,1.0,1,Peaceful,"Social support (friends, family)",Yes,2.0,1.0
+high school,5.0,2,Peaceful,Emotional breakdown (crying a lot),No,4.0,4.0
+post-graduate,5.0,3,disrupted,Emotional breakdown (crying a lot),Yes,5.0,5.0
+post-graduate,1.0,1,Peaceful,"Social support (friends, family)",No,3.0,1.0
+post-graduate,5.0,3,disrupted,Emotional breakdown (crying a lot),No,5.0,5.0
+high school,2.0,4,Noisy,Analyze the situation and handle it with intellect,No,1.0,2.0
+undergraduate,4.0,1,disrupted,"Social support (friends, family)",prefer not to say,1.0,2.0
+undergraduate,1.0,5,disrupted,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+undergraduate,1.0,4,disrupted,"Social support (friends, family)",Yes,4.0,4.0
+high school,3.0,4,disrupted,"Social support (friends, family)",prefer not to say,2.0,3.0
+post-graduate,3.0,2,disrupted,"Social support (friends, family)",prefer not to say,5.0,3.0
+high school,5.0,4,Noisy,Analyze the situation and handle it with intellect,prefer not to say,2.0,4.0
+post-graduate,4.0,3,disrupted,Emotional breakdown (crying a lot),No,3.0,5.0
+undergraduate,2.0,5,disrupted,Analyze the situation and handle it with intellect,prefer not to say,1.0,3.0
+high school,3.0,2,Noisy,Emotional breakdown (crying a lot),No,2.0,3.0
+undergraduate,4.0,5,disrupted,Emotional breakdown (crying a lot),No,1.0,5.0
+undergraduate,3.0,4,Noisy,"Social support (friends, family)",Yes,1.0,3.0
+high school,5.0,5,Peaceful,"Social support (friends, family)",prefer not to say,2.0,3.0
+undergraduate,1.0,5,disrupted,Emotional breakdown (crying a lot),Yes,2.0,5.0
+post-graduate,1.0,1,disrupted,Analyze the situation and handle it with intellect,Yes,1.0,2.0
+undergraduate,5.0,1,Noisy,Emotional breakdown (crying a lot),prefer not to say,5.0,5.0
+high school,1.0,2,disrupted,"Social support (friends, family)",prefer not to say,5.0,3.0
+undergraduate,3.0,4,Peaceful,"Social support (friends, family)",prefer not to say,4.0,3.0
+high school,4.0,3,disrupted,Emotional breakdown (crying a lot),No,5.0,5.0
+undergraduate,1.0,4,Peaceful,Emotional breakdown (crying a lot),Yes,4.0,4.0
+undergraduate,1.0,4,disrupted,"Social support (friends, family)",No,1.0,2.0
+post-graduate,5.0,3,Noisy,"Social support (friends, family)",Yes,3.0,4.0
+post-graduate,4.0,1,disrupted,Emotional breakdown (crying a lot),Yes,4.0,5.0
+undergraduate,2.0,1,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,4.0,2.0
+post-graduate,4.0,2,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,5.0,3.0
+high school,2.0,5,Noisy,"Social support (friends, family)",No,1.0,2.0
+undergraduate,4.0,2,disrupted,"Social support (friends, family)",Yes,4.0,4.0
+post-graduate,4.0,1,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,4.0,2.0
+post-graduate,1.0,3,disrupted,Emotional breakdown (crying a lot),prefer not to say,2.0,4.0
+post-graduate,1.0,4,Peaceful,Emotional breakdown (crying a lot),Yes,3.0,4.0
+undergraduate,5.0,3,Noisy,"Social support (friends, family)",No,4.0,4.0
+undergraduate,1.0,1,Peaceful,Analyze the situation and handle it with intellect,Yes,3.0,2.0
+undergraduate,2.0,3,Peaceful,"Social support (friends, family)",prefer not to say,3.0,2.0
+undergraduate,2.0,1,Noisy,"Social support (friends, family)",No,4.0,2.0
+high school,5.0,4,disrupted,Emotional breakdown (crying a lot),No,4.0,5.0
+post-graduate,4.0,4,Noisy,"Social support (friends, family)",prefer not to say,3.0,3.0
+undergraduate,4.0,4,disrupted,Analyze the situation and handle it with intellect,prefer not to say,1.0,4.0
+high school,3.0,5,Noisy,"Social support (friends, family)",Yes,5.0,4.0
+post-graduate,2.0,2,Noisy,Analyze the situation and handle it with intellect,prefer not to say,2.0,2.0
+post-graduate,4.0,1,disrupted,"Social support (friends, family)",Yes,4.0,4.0
+post-graduate,3.0,5,Peaceful,"Social support (friends, family)",No,3.0,3.0
+post-graduate,4.0,4,Noisy,Emotional breakdown (crying a lot),No,4.0,5.0
+high school,1.0,4,disrupted,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+high school,4.0,4,Noisy,Analyze the situation and handle it with intellect,Yes,2.0,4.0
+undergraduate,1.0,2,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,1.0
+undergraduate,1.0,4,disrupted,"Social support (friends, family)",No,4.0,3.0
+post-graduate,5.0,4,Peaceful,Emotional breakdown (crying a lot),prefer not to say,4.0,5.0
+high school,1.0,4,Noisy,"Social support (friends, family)",No,2.0,2.0
+high school,4.0,5,Peaceful,"Social support (friends, family)",No,2.0,3.0
+undergraduate,4.0,4,disrupted,"Social support (friends, family)",prefer not to say,3.0,4.0
+post-graduate,1.0,3,disrupted,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+high school,2.0,3,Noisy,Emotional breakdown (crying a lot),prefer not to say,2.0,3.0
+high school,4.0,3,disrupted,Emotional breakdown (crying a lot),No,4.0,5.0
+undergraduate,2.0,2,disrupted,Analyze the situation and handle it with intellect,prefer not to say,5.0,4.0
+undergraduate,5.0,3,Peaceful,"Social support (friends, family)",prefer not to say,5.0,3.0
+high school,4.0,1,disrupted,Emotional breakdown (crying a lot),No,4.0,4.0
+high school,3.0,2,disrupted,"Social support (friends, family)",Yes,1.0,2.0
+post-graduate,3.0,2,disrupted,"Social support (friends, family)",prefer not to say,3.0,3.0
+high school,4.0,1,Noisy,Analyze the situation and handle it with intellect,prefer not to say,1.0,2.0
+post-graduate,2.0,1,disrupted,Emotional breakdown (crying a lot),Yes,5.0,5.0
+high school,3.0,5,Peaceful,Emotional breakdown (crying a lot),Yes,2.0,4.0
+high school,2.0,1,Noisy,Emotional breakdown (crying a lot),Yes,4.0,4.0
+undergraduate,4.0,2,Noisy,Analyze the situation and handle it with intellect,prefer not to say,3.0,3.0
+undergraduate,3.0,5,disrupted,"Social support (friends, family)",prefer not to say,3.0,4.0
+undergraduate,1.0,3,Peaceful,Emotional breakdown (crying a lot),Yes,5.0,4.0
+high school,5.0,5,disrupted,Emotional breakdown (crying a lot),No,2.0,5.0
+undergraduate,5.0,1,disrupted,"Social support (friends, family)",No,4.0,3.0
+post-graduate,1.0,1,Noisy,"Social support (friends, family)",Yes,2.0,1.0
+post-graduate,2.0,1,Noisy,Emotional breakdown (crying a lot),Yes,3.0,4.0
+high school,2.0,3,disrupted,Analyze the situation and handle it with intellect,No,4.0,4.0
+post-graduate,2.0,2,Peaceful,"Social support (friends, family)",prefer not to say,4.0,2.0
+high school,4.0,4,Noisy,"Social support (friends, family)",No,1.0,2.0
+high school,4.0,5,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,2.0,3.0
+undergraduate,4.0,2,disrupted,Emotional breakdown (crying a lot),Yes,2.0,5.0
+post-graduate,2.0,4,disrupted,Analyze the situation and handle it with intellect,No,2.0,3.0
+post-graduate,5.0,1,disrupted,Emotional breakdown (crying a lot),prefer not to say,2.0,4.0
+high school,2.0,5,Noisy,"Social support (friends, family)",prefer not to say,1.0,2.0
+undergraduate,3.0,3,Noisy,"Social support (friends, family)",prefer not to say,4.0,3.0
+post-graduate,4.0,1,disrupted,Analyze the situation and handle it with intellect,Yes,4.0,4.0
+undergraduate,1.0,5,Noisy,Emotional breakdown (crying a lot),No,5.0,5.0
+high school,4.0,5,Noisy,"Social support (friends, family)",No,1.0,3.0
+high school,4.0,1,Peaceful,Emotional breakdown (crying a lot),Yes,2.0,3.0
+high school,3.0,2,Peaceful,Emotional breakdown (crying a lot),Yes,2.0,3.0
+undergraduate,4.0,3,disrupted,Analyze the situation and handle it with intellect,No,4.0,4.0
+post-graduate,4.0,2,Noisy,"Social support (friends, family)",prefer not to say,5.0,3.0
+high school,4.0,2,Peaceful,"Social support (friends, family)",prefer not to say,2.0,2.0
+post-graduate,2.0,5,Noisy,Analyze the situation and handle it with intellect,prefer not to say,2.0,3.0
+post-graduate,2.0,3,Noisy,Analyze the situation and handle it with intellect,No,3.0,3.0
+undergraduate,2.0,1,Noisy,"Social support (friends, family)",Yes,5.0,3.0
+high school,3.0,5,disrupted,Emotional breakdown (crying a lot),No,4.0,5.0
+high school,3.0,3,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,2.0
+undergraduate,5.0,3,disrupted,Emotional breakdown (crying a lot),Yes,5.0,5.0
+undergraduate,1.0,3,Noisy,Emotional breakdown (crying a lot),No,1.0,3.0
+high school,5.0,2,Peaceful,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+post-graduate,2.0,3,Noisy,Analyze the situation and handle it with intellect,prefer not to say,5.0,3.0
+high school,2.0,5,Noisy,Analyze the situation and handle it with intellect,prefer not to say,5.0,4.0
+undergraduate,4.0,3,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,2.0,2.0
+post-graduate,1.0,1,disrupted,Emotional breakdown (crying a lot),prefer not to say,5.0,4.0
+undergraduate,4.0,5,disrupted,Analyze the situation and handle it with intellect,No,4.0,5.0
+high school,1.0,4,disrupted,"Social support (friends, family)",No,2.0,2.0
+post-graduate,2.0,4,Noisy,Emotional breakdown (crying a lot),No,2.0,4.0
+undergraduate,3.0,3,disrupted,Analyze the situation and handle it with intellect,prefer not to say,4.0,4.0
+post-graduate,4.0,3,Noisy,Emotional breakdown (crying a lot),No,4.0,5.0
+high school,4.0,3,disrupted,"Social support (friends, family)",No,1.0,3.0
+high school,5.0,2,Peaceful,Emotional breakdown (crying a lot),Yes,3.0,4.0
+post-graduate,4.0,5,Peaceful,Emotional breakdown (crying a lot),No,4.0,5.0
+post-graduate,3.0,3,Peaceful,Emotional breakdown (crying a lot),Yes,1.0,3.0
+undergraduate,5.0,3,Peaceful,Analyze the situation and handle it with intellect,No,1.0,2.0
+high school,2.0,3,disrupted,Emotional breakdown (crying a lot),Yes,2.0,4.0
+undergraduate,5.0,5,Noisy,Analyze the situation and handle it with intellect,prefer not to say,2.0,4.0
+post-graduate,3.0,1,Noisy,"Social support (friends, family)",No,4.0,2.0
+post-graduate,5.0,5,Noisy,Emotional breakdown (crying a lot),Yes,3.0,5.0
+high school,5.0,3,disrupted,Analyze the situation and handle it with intellect,No,3.0,4.0
+high school,3.0,4,Noisy,"Social support (friends, family)",No,3.0,3.0
+post-graduate,1.0,1,disrupted,Analyze the situation and handle it with intellect,prefer not to say,3.0,2.0
+post-graduate,1.0,5,disrupted,"Social support (friends, family)",No,4.0,3.0
+post-graduate,2.0,3,Noisy,"Social support (friends, family)",Yes,2.0,2.0
+high school,4.0,4,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,2.0,3.0
+high school,1.0,4,Peaceful,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+high school,4.0,3,Peaceful,"Social support (friends, family)",Yes,5.0,4.0
+high school,5.0,5,Noisy,"Social support (friends, family)",Yes,1.0,4.0
+high school,4.0,5,Peaceful,Analyze the situation and handle it with intellect,Yes,3.0,4.0
+high school,4.0,3,Peaceful,"Social support (friends, family)",prefer not to say,2.0,2.0
+post-graduate,1.0,2,Peaceful,Emotional breakdown (crying a lot),No,3.0,2.0
+high school,2.0,2,Noisy,"Social support (friends, family)",prefer not to say,5.0,2.0
+undergraduate,4.0,1,Peaceful,Emotional breakdown (crying a lot),No,5.0,4.0
+post-graduate,3.0,2,Peaceful,Analyze the situation and handle it with intellect,No,4.0,2.0
+undergraduate,3.0,4,Peaceful,Emotional breakdown (crying a lot),Yes,1.0,4.0
+post-graduate,2.0,4,disrupted,"Social support (friends, family)",No,1.0,2.0
+post-graduate,5.0,3,Noisy,Emotional breakdown (crying a lot),Yes,5.0,5.0
+post-graduate,3.0,5,disrupted,Emotional breakdown (crying a lot),prefer not to say,4.0,5.0
+post-graduate,2.0,5,Peaceful,Analyze the situation and handle it with intellect,No,4.0,3.0
+high school,2.0,3,disrupted,Emotional breakdown (crying a lot),Yes,4.0,5.0
+high school,3.0,4,Peaceful,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+high school,4.0,5,disrupted,Emotional breakdown (crying a lot),prefer not to say,5.0,5.0
+high school,5.0,5,disrupted,"Social support (friends, family)",No,3.0,4.0
+post-graduate,5.0,1,disrupted,"Social support (friends, family)",No,5.0,4.0
+undergraduate,2.0,3,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,4.0,2.0
+high school,5.0,3,Noisy,"Social support (friends, family)",prefer not to say,1.0,2.0
+high school,4.0,5,Noisy,"Social support (friends, family)",prefer not to say,3.0,4.0
+post-graduate,4.0,3,Noisy,Emotional breakdown (crying a lot),prefer not to say,2.0,4.0
+post-graduate,3.0,2,Noisy,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+undergraduate,1.0,1,disrupted,Analyze the situation and handle it with intellect,prefer not to say,1.0,2.0
+undergraduate,2.0,4,Peaceful,"Social support (friends, family)",No,3.0,2.0
+post-graduate,5.0,5,Peaceful,Emotional breakdown (crying a lot),prefer not to say,2.0,4.0
+post-graduate,2.0,3,Peaceful,Analyze the situation and handle it with intellect,Yes,3.0,3.0
+high school,4.0,1,Noisy,Emotional breakdown (crying a lot),No,1.0,3.0
+high school,3.0,3,Noisy,Analyze the situation and handle it with intellect,Yes,3.0,4.0
+post-graduate,3.0,4,Peaceful,Emotional breakdown (crying a lot),No,5.0,4.0
+post-graduate,4.0,5,Noisy,Emotional breakdown (crying a lot),Yes,1.0,5.0
+high school,5.0,1,Peaceful,Emotional breakdown (crying a lot),prefer not to say,1.0,3.0
+undergraduate,2.0,5,disrupted,Emotional breakdown (crying a lot),prefer not to say,1.0,4.0
+post-graduate,4.0,3,Peaceful,Emotional breakdown (crying a lot),Yes,5.0,5.0
+post-graduate,4.0,4,Peaceful,Emotional breakdown (crying a lot),Yes,3.0,5.0
+undergraduate,5.0,5,Noisy,Analyze the situation and handle it with intellect,prefer not to say,1.0,4.0
+undergraduate,1.0,1,disrupted,Analyze the situation and handle it with intellect,No,3.0,2.0
+high school,5.0,3,Noisy,"Social support (friends, family)",No,3.0,3.0
+undergraduate,5.0,5,Noisy,Analyze the situation and handle it with intellect,Yes,1.0,4.0
+high school,2.0,4,Noisy,Analyze the situation and handle it with intellect,No,2.0,3.0
+undergraduate,1.0,2,Noisy,Emotional breakdown (crying a lot),No,3.0,3.0
+high school,2.0,1,disrupted,Analyze the situation and handle it with intellect,Yes,3.0,3.0
+post-graduate,4.0,4,Peaceful,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+undergraduate,3.0,1,Peaceful,Emotional breakdown (crying a lot),Yes,2.0,3.0
+post-graduate,1.0,4,Noisy,Analyze the situation and handle it with intellect,Yes,3.0,3.0
+high school,1.0,4,Peaceful,"Social support (friends, family)",No,3.0,2.0
+undergraduate,3.0,2,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,2.0,2.0
+post-graduate,2.0,5,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,1.0,2.0
+post-graduate,2.0,5,Noisy,Analyze the situation and handle it with intellect,Yes,3.0,4.0
+undergraduate,5.0,5,Noisy,Emotional breakdown (crying a lot),Yes,5.0,5.0
+post-graduate,3.0,4,Peaceful,"Social support (friends, family)",No,1.0,2.0
+high school,2.0,1,Peaceful,"Social support (friends, family)",prefer not to say,5.0,2.0
+post-graduate,5.0,4,disrupted,Analyze the situation and handle it with intellect,Yes,4.0,5.0
+undergraduate,2.0,5,disrupted,"Social support (friends, family)",prefer not to say,3.0,3.0
+high school,1.0,4,disrupted,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+high school,5.0,1,Peaceful,"Social support (friends, family)",No,2.0,2.0
+post-graduate,1.0,2,Peaceful,"Social support (friends, family)",prefer not to say,3.0,1.0
+post-graduate,2.0,3,Noisy,"Social support (friends, family)",No,3.0,2.0
+post-graduate,3.0,5,disrupted,Analyze the situation and handle it with intellect,No,4.0,4.0
+high school,3.0,5,Noisy,Emotional breakdown (crying a lot),prefer not to say,3.0,5.0
+high school,1.0,1,Noisy,"Social support (friends, family)",Yes,2.0,1.0
+undergraduate,3.0,1,Peaceful,Analyze the situation and handle it with intellect,No,3.0,2.0
+undergraduate,3.0,4,Noisy,"Social support (friends, family)",Yes,5.0,4.0
+high school,5.0,5,Noisy,Emotional breakdown (crying a lot),Yes,4.0,5.0
+post-graduate,1.0,5,disrupted,Analyze the situation and handle it with intellect,Yes,5.0,5.0
+high school,2.0,4,disrupted,Analyze the situation and handle it with intellect,prefer not to say,4.0,4.0
+post-graduate,3.0,1,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,2.0,2.0
+undergraduate,1.0,5,Peaceful,Emotional breakdown (crying a lot),Yes,3.0,4.0
+undergraduate,4.0,2,Peaceful,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+undergraduate,1.0,4,Noisy,"Social support (friends, family)",No,5.0,3.0
+post-graduate,3.0,2,Noisy,"Social support (friends, family)",No,4.0,2.0
+high school,5.0,2,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,1.0,2.0
+high school,5.0,3,Peaceful,"Social support (friends, family)",Yes,3.0,3.0
+post-graduate,2.0,1,Peaceful,"Social support (friends, family)",No,5.0,2.0
+high school,1.0,5,disrupted,Emotional breakdown (crying a lot),prefer not to say,5.0,5.0
+high school,1.0,2,Peaceful,Emotional breakdown (crying a lot),Yes,1.0,2.0
+undergraduate,4.0,2,Peaceful,"Social support (friends, family)",Yes,5.0,3.0
+post-graduate,2.0,4,Noisy,Emotional breakdown (crying a lot),No,4.0,4.0
+post-graduate,5.0,4,disrupted,Analyze the situation and handle it with intellect,Yes,5.0,5.0
+undergraduate,4.0,1,Noisy,Analyze the situation and handle it with intellect,prefer not to say,2.0,2.0
+high school,4.0,2,disrupted,"Social support (friends, family)",Yes,5.0,4.0
+high school,2.0,5,disrupted,"Social support (friends, family)",No,5.0,4.0
+undergraduate,1.0,3,Peaceful,"Social support (friends, family)",prefer not to say,4.0,2.0
+high school,3.0,4,disrupted,Emotional breakdown (crying a lot),No,2.0,4.0
+post-graduate,2.0,1,disrupted,Emotional breakdown (crying a lot),Yes,3.0,4.0
+undergraduate,2.0,1,disrupted,"Social support (friends, family)",No,5.0,3.0
+post-graduate,2.0,4,Noisy,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+undergraduate,5.0,4,Peaceful,Emotional breakdown (crying a lot),Yes,5.0,5.0
+post-graduate,1.0,2,Noisy,Emotional breakdown (crying a lot),prefer not to say,5.0,4.0
+post-graduate,4.0,3,Peaceful,Analyze the situation and handle it with intellect,Yes,2.0,3.0
+undergraduate,2.0,1,disrupted,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+undergraduate,3.0,3,disrupted,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+high school,3.0,3,disrupted,Analyze the situation and handle it with intellect,prefer not to say,5.0,4.0
+undergraduate,1.0,5,Peaceful,"Social support (friends, family)",prefer not to say,1.0,1.0
+high school,3.0,2,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,2.0,2.0
+high school,5.0,1,disrupted,Analyze the situation and handle it with intellect,No,5.0,4.0
+undergraduate,1.0,5,disrupted,"Social support (friends, family)",No,1.0,2.0
+undergraduate,2.0,3,Noisy,"Social support (friends, family)",Yes,5.0,3.0
+post-graduate,2.0,5,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,3.0,3.0
+high school,2.0,2,disrupted,Emotional breakdown (crying a lot),prefer not to say,1.0,3.0
+post-graduate,1.0,5,disrupted,Analyze the situation and handle it with intellect,No,4.0,4.0
+high school,4.0,5,disrupted,Analyze the situation and handle it with intellect,No,3.0,4.0
+high school,5.0,4,disrupted,Analyze the situation and handle it with intellect,Yes,3.0,5.0
+high school,3.0,5,Noisy,Emotional breakdown (crying a lot),Yes,1.0,4.0
+high school,2.0,5,Peaceful,Emotional breakdown (crying a lot),Yes,3.0,4.0
+post-graduate,1.0,5,Peaceful,"Social support (friends, family)",Yes,1.0,2.0
+high school,2.0,2,disrupted,Emotional breakdown (crying a lot),No,5.0,4.0
+high school,2.0,3,Peaceful,"Social support (friends, family)",No,3.0,2.0
+high school,1.0,3,Peaceful,Emotional breakdown (crying a lot),Yes,3.0,3.0
+post-graduate,4.0,1,Noisy,Analyze the situation and handle it with intellect,No,1.0,2.0
+undergraduate,5.0,4,Peaceful,"Social support (friends, family)",No,2.0,3.0
+post-graduate,3.0,2,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,2.0
+post-graduate,1.0,2,disrupted,"Social support (friends, family)",prefer not to say,5.0,3.0
+high school,3.0,5,Peaceful,Analyze the situation and handle it with intellect,Yes,3.0,4.0
+undergraduate,5.0,1,Noisy,Emotional breakdown (crying a lot),No,1.0,3.0
+high school,3.0,1,disrupted,Emotional breakdown (crying a lot),Yes,2.0,4.0
+high school,1.0,4,disrupted,"Social support (friends, family)",prefer not to say,3.0,3.0
+undergraduate,2.0,1,Noisy,Emotional breakdown (crying a lot),prefer not to say,2.0,3.0
+post-graduate,5.0,2,disrupted,Analyze the situation and handle it with intellect,Yes,3.0,4.0
+post-graduate,2.0,1,Noisy,"Social support (friends, family)",prefer not to say,1.0,1.0
+post-graduate,4.0,4,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,4.0,4.0
+high school,1.0,3,disrupted,Emotional breakdown (crying a lot),prefer not to say,5.0,4.0
+undergraduate,2.0,3,disrupted,Emotional breakdown (crying a lot),No,3.0,4.0
+high school,5.0,5,Peaceful,Analyze the situation and handle it with intellect,Yes,5.0,5.0
+high school,4.0,2,Noisy,Emotional breakdown (crying a lot),No,3.0,4.0
+undergraduate,4.0,2,Peaceful,Emotional breakdown (crying a lot),No,5.0,4.0
+high school,2.0,1,Noisy,"Social support (friends, family)",prefer not to say,5.0,2.0
+high school,2.0,1,disrupted,"Social support (friends, family)",No,2.0,2.0
+high school,1.0,4,Noisy,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+post-graduate,5.0,5,disrupted,Analyze the situation and handle it with intellect,Yes,4.0,5.0
+undergraduate,4.0,1,Peaceful,Emotional breakdown (crying a lot),No,3.0,3.0
+post-graduate,1.0,5,Noisy,Emotional breakdown (crying a lot),No,3.0,4.0
+post-graduate,5.0,4,disrupted,Emotional breakdown (crying a lot),No,4.0,5.0
+high school,1.0,5,Noisy,Analyze the situation and handle it with intellect,No,4.0,3.0
+post-graduate,5.0,3,disrupted,Emotional breakdown (crying a lot),prefer not to say,3.0,5.0
+high school,1.0,1,disrupted,"Social support (friends, family)",prefer not to say,2.0,1.0
+undergraduate,4.0,4,Peaceful,Analyze the situation and handle it with intellect,No,5.0,4.0
+post-graduate,2.0,4,disrupted,Analyze the situation and handle it with intellect,No,4.0,4.0
+post-graduate,2.0,5,Peaceful,Analyze the situation and handle it with intellect,Yes,4.0,4.0
+post-graduate,5.0,1,disrupted,"Social support (friends, family)",No,3.0,3.0
+post-graduate,3.0,4,disrupted,Analyze the situation and handle it with intellect,Yes,5.0,5.0
+undergraduate,2.0,2,Peaceful,Analyze the situation and handle it with intellect,Yes,2.0,2.0
+high school,3.0,5,Peaceful,Analyze the situation and handle it with intellect,Yes,2.0,3.0
+post-graduate,1.0,3,Peaceful,"Social support (friends, family)",Yes,5.0,2.0
+post-graduate,4.0,2,Peaceful,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+high school,4.0,4,Peaceful,"Social support (friends, family)",Yes,5.0,4.0
+high school,4.0,2,Noisy,Emotional breakdown (crying a lot),Yes,5.0,5.0
+post-graduate,4.0,5,Noisy,"Social support (friends, family)",prefer not to say,5.0,4.0
+high school,3.0,1,Noisy,"Social support (friends, family)",No,3.0,2.0
+undergraduate,1.0,2,Noisy,"Social support (friends, family)",Yes,4.0,2.0
+post-graduate,3.0,4,Noisy,"Social support (friends, family)",Yes,3.0,3.0
+undergraduate,5.0,4,Peaceful,"Social support (friends, family)",Yes,5.0,4.0
+undergraduate,3.0,2,Noisy,Analyze the situation and handle it with intellect,No,1.0,2.0
+high school,3.0,1,disrupted,Emotional breakdown (crying a lot),Yes,1.0,4.0
+undergraduate,3.0,4,disrupted,"Social support (friends, family)",No,3.0,3.0
+post-graduate,3.0,5,Noisy,Analyze the situation and handle it with intellect,prefer not to say,5.0,4.0
+undergraduate,4.0,5,disrupted,Analyze the situation and handle it with intellect,prefer not to say,2.0,4.0
+high school,5.0,2,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,3.0,3.0
+undergraduate,1.0,5,Peaceful,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+high school,5.0,3,disrupted,"Social support (friends, family)",Yes,3.0,4.0
+undergraduate,5.0,5,disrupted,Analyze the situation and handle it with intellect,Yes,5.0,5.0
+undergraduate,5.0,1,disrupted,Emotional breakdown (crying a lot),Yes,3.0,5.0
+undergraduate,1.0,1,Noisy,Analyze the situation and handle it with intellect,Yes,3.0,2.0
+undergraduate,5.0,3,Noisy,Emotional breakdown (crying a lot),prefer not to say,4.0,5.0
+post-graduate,5.0,2,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,3.0,3.0
+high school,3.0,5,disrupted,Emotional breakdown (crying a lot),Yes,2.0,5.0
+high school,2.0,5,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,2.0,2.0
+high school,5.0,3,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,2.0,3.0
+undergraduate,3.0,3,Noisy,Analyze the situation and handle it with intellect,Yes,3.0,4.0
+high school,2.0,5,Noisy,Analyze the situation and handle it with intellect,Yes,2.0,4.0
+undergraduate,3.0,1,Noisy,Analyze the situation and handle it with intellect,No,5.0,3.0
+high school,5.0,1,Noisy,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+post-graduate,1.0,4,Peaceful,Emotional breakdown (crying a lot),No,3.0,3.0
+post-graduate,1.0,4,Peaceful,Emotional breakdown (crying a lot),Yes,2.0,3.0
+high school,3.0,1,Peaceful,"Social support (friends, family)",No,2.0,1.0
+post-graduate,5.0,1,disrupted,Analyze the situation and handle it with intellect,Yes,2.0,4.0
+high school,1.0,1,Peaceful,"Social support (friends, family)",prefer not to say,4.0,1.0
+high school,4.0,5,Noisy,Analyze the situation and handle it with intellect,Yes,1.0,4.0
+undergraduate,1.0,3,disrupted,Analyze the situation and handle it with intellect,No,1.0,2.0
+high school,3.0,4,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,3.0
+undergraduate,5.0,3,disrupted,"Social support (friends, family)",Yes,1.0,4.0
+undergraduate,1.0,2,Peaceful,"Social support (friends, family)",Yes,3.0,2.0
+undergraduate,3.0,4,Noisy,Analyze the situation and handle it with intellect,prefer not to say,4.0,4.0
+high school,5.0,1,disrupted,"Social support (friends, family)",No,2.0,3.0
+post-graduate,5.0,4,Noisy,"Social support (friends, family)",No,2.0,3.0
+high school,2.0,3,disrupted,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+high school,5.0,5,disrupted,"Social support (friends, family)",Yes,1.0,4.0
+undergraduate,3.0,4,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,5.0,4.0
+post-graduate,1.0,2,disrupted,Emotional breakdown (crying a lot),No,1.0,3.0
+undergraduate,3.0,3,disrupted,Emotional breakdown (crying a lot),Yes,4.0,5.0
+post-graduate,1.0,2,Peaceful,Emotional breakdown (crying a lot),prefer not to say,3.0,2.0
+undergraduate,2.0,1,Noisy,"Social support (friends, family)",Yes,1.0,1.0
+undergraduate,4.0,4,Noisy,"Social support (friends, family)",prefer not to say,2.0,3.0
+post-graduate,3.0,1,Peaceful,Emotional breakdown (crying a lot),prefer not to say,1.0,2.0
+post-graduate,1.0,1,Noisy,Emotional breakdown (crying a lot),No,4.0,3.0
+high school,1.0,2,disrupted,Emotional breakdown (crying a lot),Yes,3.0,4.0
+undergraduate,3.0,1,Peaceful,"Social support (friends, family)",Yes,3.0,2.0
+post-graduate,4.0,4,disrupted,Emotional breakdown (crying a lot),No,3.0,5.0
+high school,2.0,5,disrupted,Analyze the situation and handle it with intellect,No,1.0,3.0
+high school,3.0,2,Noisy,Analyze the situation and handle it with intellect,prefer not to say,4.0,3.0
+high school,2.0,3,disrupted,Analyze the situation and handle it with intellect,Yes,3.0,4.0
+high school,2.0,4,Noisy,"Social support (friends, family)",Yes,2.0,3.0
+post-graduate,1.0,4,Peaceful,"Social support (friends, family)",Yes,4.0,2.0
+high school,5.0,2,Peaceful,"Social support (friends, family)",No,5.0,3.0
+high school,2.0,3,disrupted,"Social support (friends, family)",prefer not to say,4.0,3.0
+post-graduate,3.0,2,Peaceful,Analyze the situation and handle it with intellect,Yes,5.0,3.0
+post-graduate,4.0,5,Peaceful,Analyze the situation and handle it with intellect,Yes,3.0,4.0
+undergraduate,2.0,5,disrupted,"Social support (friends, family)",No,1.0,3.0
+post-graduate,1.0,5,Noisy,Emotional breakdown (crying a lot),Yes,1.0,4.0
+post-graduate,4.0,1,Noisy,Analyze the situation and handle it with intellect,prefer not to say,5.0,3.0
+high school,1.0,2,disrupted,"Social support (friends, family)",prefer not to say,2.0,2.0
+undergraduate,5.0,2,Peaceful,Analyze the situation and handle it with intellect,No,1.0,2.0
+post-graduate,1.0,3,disrupted,"Social support (friends, family)",Yes,3.0,3.0
+undergraduate,4.0,5,Noisy,"Social support (friends, family)",prefer not to say,4.0,4.0
+undergraduate,3.0,3,disrupted,"Social support (friends, family)",Yes,4.0,4.0
+undergraduate,1.0,5,Noisy,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+undergraduate,1.0,4,Peaceful,"Social support (friends, family)",Yes,5.0,3.0
+high school,5.0,2,disrupted,Analyze the situation and handle it with intellect,No,1.0,3.0
+undergraduate,4.0,2,disrupted,Analyze the situation and handle it with intellect,No,2.0,3.0
+high school,3.0,2,disrupted,"Social support (friends, family)",prefer not to say,2.0,2.0
+high school,5.0,5,Noisy,Emotional breakdown (crying a lot),Yes,3.0,5.0
+post-graduate,5.0,1,disrupted,Analyze the situation and handle it with intellect,Yes,1.0,3.0
+undergraduate,4.0,1,disrupted,"Social support (friends, family)",Yes,1.0,2.0
+high school,5.0,5,disrupted,"Social support (friends, family)",Yes,4.0,5.0
+high school,5.0,1,Noisy,Emotional breakdown (crying a lot),prefer not to say,5.0,5.0
+high school,1.0,1,disrupted,"Social support (friends, family)",No,2.0,1.0
+post-graduate,5.0,5,Noisy,Analyze the situation and handle it with intellect,No,5.0,5.0
+undergraduate,1.0,3,disrupted,"Social support (friends, family)",prefer not to say,5.0,3.0
+high school,4.0,2,Noisy,Analyze the situation and handle it with intellect,prefer not to say,1.0,2.0
+undergraduate,1.0,3,Noisy,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+undergraduate,1.0,1,disrupted,Emotional breakdown (crying a lot),No,5.0,4.0
+post-graduate,5.0,5,Peaceful,Emotional breakdown (crying a lot),Yes,2.0,5.0
+post-graduate,1.0,3,disrupted,"Social support (friends, family)",No,3.0,2.0
+high school,5.0,4,disrupted,Analyze the situation and handle it with intellect,prefer not to say,2.0,4.0
+high school,4.0,5,Noisy,"Social support (friends, family)",prefer not to say,5.0,4.0
+post-graduate,3.0,3,Noisy,Emotional breakdown (crying a lot),No,4.0,4.0
+post-graduate,5.0,3,disrupted,Emotional breakdown (crying a lot),No,2.0,5.0
+high school,4.0,4,Noisy,"Social support (friends, family)",prefer not to say,5.0,4.0
+undergraduate,1.0,5,disrupted,"Social support (friends, family)",prefer not to say,3.0,3.0
+high school,2.0,5,Noisy,"Social support (friends, family)",Yes,3.0,3.0
+undergraduate,1.0,5,disrupted,Emotional breakdown (crying a lot),No,5.0,5.0
+high school,3.0,5,disrupted,"Social support (friends, family)",No,1.0,3.0
+high school,4.0,5,Peaceful,"Social support (friends, family)",Yes,3.0,4.0
+high school,5.0,5,Peaceful,"Social support (friends, family)",No,2.0,3.0
+undergraduate,4.0,1,Noisy,"Social support (friends, family)",prefer not to say,3.0,2.0
+high school,3.0,2,disrupted,Emotional breakdown (crying a lot),prefer not to say,5.0,5.0
+post-graduate,3.0,1,Noisy,Emotional breakdown (crying a lot),Yes,2.0,4.0
+high school,3.0,3,Peaceful,"Social support (friends, family)",prefer not to say,1.0,1.0
+high school,4.0,3,disrupted,Analyze the situation and handle it with intellect,No,4.0,4.0
+undergraduate,5.0,5,Peaceful,Emotional breakdown (crying a lot),prefer not to say,3.0,5.0
+post-graduate,1.0,4,Peaceful,Emotional breakdown (crying a lot),Yes,5.0,4.0
+high school,1.0,1,Noisy,"Social support (friends, family)",Yes,3.0,2.0
+high school,4.0,3,Peaceful,Analyze the situation and handle it with intellect,Yes,2.0,3.0
+post-graduate,5.0,5,disrupted,Emotional breakdown (crying a lot),Yes,1.0,5.0
+undergraduate,2.0,5,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,4.0,3.0
+high school,1.0,4,Noisy,Emotional breakdown (crying a lot),No,1.0,3.0
+post-graduate,3.0,3,Peaceful,"Social support (friends, family)",prefer not to say,1.0,1.0
+undergraduate,5.0,3,Noisy,"Social support (friends, family)",No,3.0,3.0
+undergraduate,3.0,2,disrupted,"Social support (friends, family)",Yes,3.0,3.0
+high school,3.0,3,Noisy,Analyze the situation and handle it with intellect,prefer not to say,4.0,3.0
+undergraduate,3.0,5,Peaceful,Emotional breakdown (crying a lot),prefer not to say,3.0,4.0
+high school,3.0,2,Peaceful,Emotional breakdown (crying a lot),Yes,5.0,4.0
+high school,3.0,1,disrupted,Emotional breakdown (crying a lot),No,3.0,4.0
+high school,4.0,3,Noisy,"Social support (friends, family)",No,1.0,2.0
+high school,3.0,3,disrupted,"Social support (friends, family)",prefer not to say,3.0,3.0
+post-graduate,5.0,2,Noisy,"Social support (friends, family)",No,4.0,3.0
+high school,4.0,3,disrupted,"Social support (friends, family)",Yes,5.0,4.0
+high school,1.0,2,disrupted,Emotional breakdown (crying a lot),prefer not to say,2.0,3.0
+high school,5.0,4,Peaceful,Emotional breakdown (crying a lot),No,4.0,5.0
+high school,4.0,4,disrupted,Emotional breakdown (crying a lot),prefer not to say,1.0,4.0
+post-graduate,5.0,4,Peaceful,"Social support (friends, family)",Yes,2.0,3.0
+undergraduate,4.0,1,Noisy,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+high school,3.0,2,Peaceful,Emotional breakdown (crying a lot),No,1.0,2.0
+post-graduate,5.0,1,Peaceful,"Social support (friends, family)",Yes,4.0,3.0
+post-graduate,3.0,2,Peaceful,"Social support (friends, family)",prefer not to say,2.0,1.0
+post-graduate,2.0,2,Peaceful,"Social support (friends, family)",No,2.0,1.0
+undergraduate,3.0,3,disrupted,"Social support (friends, family)",prefer not to say,2.0,3.0
+post-graduate,3.0,1,Peaceful,"Social support (friends, family)",No,5.0,2.0
+undergraduate,3.0,5,Peaceful,Analyze the situation and handle it with intellect,Yes,3.0,4.0
+post-graduate,5.0,2,disrupted,"Social support (friends, family)",No,2.0,3.0
+post-graduate,1.0,3,Noisy,Analyze the situation and handle it with intellect,No,2.0,2.0
+high school,1.0,3,Noisy,"Social support (friends, family)",No,3.0,2.0
+undergraduate,4.0,4,disrupted,Emotional breakdown (crying a lot),prefer not to say,3.0,5.0
+undergraduate,5.0,4,Noisy,Analyze the situation and handle it with intellect,No,1.0,3.0
+undergraduate,1.0,1,Noisy,"Social support (friends, family)",No,1.0,1.0
+undergraduate,5.0,1,Peaceful,"Social support (friends, family)",No,5.0,3.0
+high school,1.0,4,Noisy,"Social support (friends, family)",Yes,4.0,3.0
+undergraduate,1.0,1,disrupted,"Social support (friends, family)",No,1.0,1.0
+undergraduate,5.0,4,Peaceful,Emotional breakdown (crying a lot),Yes,2.0,5.0
+undergraduate,2.0,2,disrupted,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+undergraduate,1.0,4,Peaceful,"Social support (friends, family)",No,2.0,1.0
+undergraduate,4.0,1,Noisy,Analyze the situation and handle it with intellect,Yes,1.0,2.0
+post-graduate,4.0,5,Noisy,"Social support (friends, family)",No,1.0,3.0
+post-graduate,5.0,3,Noisy,"Social support (friends, family)",prefer not to say,4.0,4.0
+undergraduate,1.0,2,disrupted,"Social support (friends, family)",prefer not to say,3.0,2.0
+high school,2.0,3,Peaceful,Emotional breakdown (crying a lot),prefer not to say,1.0,2.0
+high school,1.0,2,Peaceful,Analyze the situation and handle it with intellect,Yes,4.0,2.0
+high school,3.0,5,disrupted,"Social support (friends, family)",No,4.0,4.0
+post-graduate,5.0,5,disrupted,Emotional breakdown (crying a lot),Yes,3.0,5.0
+undergraduate,1.0,1,Noisy,Emotional breakdown (crying a lot),prefer not to say,5.0,3.0
+undergraduate,4.0,3,Peaceful,Analyze the situation and handle it with intellect,Yes,3.0,3.0
+post-graduate,3.0,1,disrupted,Analyze the situation and handle it with intellect,No,4.0,3.0
+undergraduate,4.0,1,Noisy,"Social support (friends, family)",Yes,2.0,2.0
+undergraduate,3.0,4,Noisy,"Social support (friends, family)",No,4.0,3.0
+post-graduate,3.0,2,Noisy,Analyze the situation and handle it with intellect,prefer not to say,4.0,3.0
+undergraduate,5.0,4,Noisy,"Social support (friends, family)",No,5.0,4.0
+high school,3.0,3,Noisy,Emotional breakdown (crying a lot),prefer not to say,4.0,4.0
+post-graduate,4.0,3,Peaceful,Analyze the situation and handle it with intellect,Yes,4.0,4.0
+post-graduate,5.0,1,Noisy,Emotional breakdown (crying a lot),Yes,1.0,4.0
+high school,3.0,1,Peaceful,Analyze the situation and handle it with intellect,No,5.0,2.0
+post-graduate,5.0,5,Peaceful,"Social support (friends, family)",prefer not to say,3.0,3.0
+high school,2.0,3,disrupted,"Social support (friends, family)",Yes,4.0,4.0
+undergraduate,4.0,4,Peaceful,"Social support (friends, family)",Yes,1.0,2.0
+undergraduate,1.0,2,Noisy,Analyze the situation and handle it with intellect,Yes,2.0,2.0
+high school,5.0,3,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,1.0,2.0
+undergraduate,5.0,3,disrupted,Emotional breakdown (crying a lot),prefer not to say,1.0,4.0
+undergraduate,3.0,2,disrupted,"Social support (friends, family)",Yes,5.0,4.0
+high school,5.0,2,Peaceful,"Social support (friends, family)",prefer not to say,3.0,2.0
+high school,4.0,4,disrupted,Emotional breakdown (crying a lot),No,3.0,5.0
+undergraduate,3.0,3,Peaceful,"Social support (friends, family)",Yes,3.0,2.0
+high school,1.0,2,Peaceful,"Social support (friends, family)",Yes,2.0,1.0
+post-graduate,5.0,4,Noisy,Emotional breakdown (crying a lot),prefer not to say,2.0,5.0
+undergraduate,5.0,1,Noisy,"Social support (friends, family)",No,1.0,2.0
+high school,4.0,2,Noisy,Emotional breakdown (crying a lot),No,2.0,4.0
+post-graduate,5.0,4,Noisy,Analyze the situation and handle it with intellect,prefer not to say,2.0,4.0
+post-graduate,4.0,4,disrupted,Emotional breakdown (crying a lot),No,4.0,5.0
+post-graduate,3.0,3,disrupted,"Social support (friends, family)",prefer not to say,3.0,3.0
+undergraduate,2.0,4,disrupted,"Social support (friends, family)",No,4.0,3.0
+undergraduate,1.0,1,disrupted,"Social support (friends, family)",No,4.0,2.0
+high school,3.0,3,disrupted,Analyze the situation and handle it with intellect,Yes,4.0,4.0
+post-graduate,1.0,3,Peaceful,Emotional breakdown (crying a lot),prefer not to say,4.0,3.0
+high school,4.0,3,Noisy,Analyze the situation and handle it with intellect,Yes,5.0,4.0
+high school,4.0,3,Noisy,"Social support (friends, family)",No,3.0,3.0
+high school,3.0,5,disrupted,Emotional breakdown (crying a lot),No,3.0,5.0
+post-graduate,3.0,1,disrupted,Emotional breakdown (crying a lot),No,3.0,4.0
+high school,1.0,3,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,1.0,1.0
+undergraduate,5.0,3,Noisy,Analyze the situation and handle it with intellect,prefer not to say,1.0,3.0
+high school,4.0,5,disrupted,Emotional breakdown (crying a lot),Yes,2.0,5.0
+undergraduate,3.0,4,Noisy,Emotional breakdown (crying a lot),No,4.0,5.0
+high school,3.0,5,Peaceful,Emotional breakdown (crying a lot),Yes,5.0,5.0
+undergraduate,3.0,3,Peaceful,Analyze the situation and handle it with intellect,Yes,1.0,2.0
+post-graduate,4.0,5,Peaceful,Emotional breakdown (crying a lot),prefer not to say,2.0,4.0
